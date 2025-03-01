@@ -1,6 +1,7 @@
 # Ainox Subscription Sync
 
-This script automates the synchronization of Ainox subscriber data with Google Sheets.
+Ainox is a Russian payment system that provides subscription management and billing solutions. 
+This script helps automate the retrieval and updating of subscriber data from Ainox into a Google Spreadsheet.
 
 ## Features
 ✅ Fetches subscriber data from Ainox API  
